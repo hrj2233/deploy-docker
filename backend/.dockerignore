@@ -1,0 +1,5 @@
+node_modules
+dist
+gcp-file-storage.json
+.env
+.env.docker
